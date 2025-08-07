@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: astra-artifacts
+Source: https://github.com/anonymous-eurosp/astra-artifacts
+
+Files: *
+Copyright: 2025 anonymous-eurosp
+License: MIT
+
+Files: results/*
+Copyright: 2025 anonymous-eurosp
+License: CDLA-Permissive-2.0
